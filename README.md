@@ -1,4 +1,4 @@
-<b>*********ISLAND ESCAPE********</b>
+<b>********ISLAND ESCAPE********</b>
 
 README																											  
  
